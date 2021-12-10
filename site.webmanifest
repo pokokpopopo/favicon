@@ -3,12 +3,12 @@
     "short_name": "TabungMas",
     "icons": [
         {
-            "src": "https://res.cloudinary.com/pokokpopopo/image/upload/v1639044615/t%20tabungmas/android-chrome-192x192_zlksxd.png",
+            "src": "https://res.cloudinary.com/pokokpopopo/image/upload/v1639129897/TabungMas%20Favicon/android-chrome-192x192_z1fh9b.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://res.cloudinary.com/pokokpopopo/image/upload/v1639044989/t%20tabungmas/android-chrome-512x512_gxjfyx.png",
+            "src": "https://res.cloudinary.com/pokokpopopo/image/upload/v1639129897/TabungMas%20Favicon/android-chrome-512x512_cp5osa.png",
             "sizes": "512x512",
             "type": "image/png"
         }
